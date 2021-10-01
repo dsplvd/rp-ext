@@ -1,7 +1,7 @@
 
 {
   "id": "tg3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/dsplvd/rp-ext/master/tg3/rpext-index.json",
   "info": {
     "name": "tg3",
     "description": "Adds Broadcom Tigon 3 support",
