@@ -6,14 +6,14 @@
     "name": "tg3",
     "description": "Adds Broadcom Tigon 3 support",
     "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tg3",
+    "packer_url": "https://github.com/dsplvd/rp-ext/tg3",
     "help_url": "<todo>"
   },
   "releases": {
-    "ds3615xs_25556": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/ds3615xs_25556.json",
-    "ds3615xs_41222": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/ds3615xs_41222.json",
-    "ds918p_41890": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/ds918p_41890.json",
-    "ds918p_25556": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/ds918p_25556.json"
+    "ds3615xs_25556": "https://raw.githubusercontent.com/dsplvd/rp-ext/master/tg3/releases/ds3615xs_25556.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/dsplvd/rp-ext/master/tg3/releases/ds3615xs_41222.json",
+    "ds918p_41890": "https://raw.githubusercontent.com/dsplvd/rp-ext/master/tg3/releases/ds918p_41890.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/dsplvd/rp-ext/master/tg3/releases/ds918p_25556.json"
   }
 }
 
